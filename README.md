@@ -30,7 +30,7 @@ A modern, feature-rich recipe discovery application built with React, featuring 
 ### Steps
 1. Clone the repository
 ```bash
-   git clone https://github.com/ratneshchipre/Food-Recipe-App.git
+   https://github.com/A3K3SH/Food-Recipe.git
 ```
 
 2. Navigate to the project directory
