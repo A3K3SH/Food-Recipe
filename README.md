@@ -2,6 +2,9 @@
 
 A modern, feature-rich recipe discovery application built with React, featuring beautiful animations, smart search, and favorites management powered by TheMealDB API.
 
+<img width="1903" height="909" alt="{D64947BF-3F27-408B-99C8-B8B54BBE8505}" src="https://github.com/user-attachments/assets/88d6c37c-0e66-4901-b369-bb823bfdc9d3" />
+
+
 ## Features
 - Recipe Search & Discovery
 - Favorites Management
