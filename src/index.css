@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'CircularStd-Medium';
+    src: url(../public/CircularStd-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'CircularStd-Bold';
+    src: url(../public/CircularStd-Bold.ttf);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+@theme {
+    --font-Circular-Medium: "CircularStd-Medium", "sans-serif";
+    --font-Circular-Bold: "CircularStd-Bold", "sans-serif";
+    --color-nav-green: #4CAF50;
+    --color-btn-green: #D3E7C0;
+    --color-card-green: #B7CEB8;
+    --color-white: #FFFFFF;
+    --color-sec-orange: #FF9800;
+    --color-bg-cream: #F5F5DC;
+    --color-txt-black: #323031;
+    --color-txt-gray-black: #4F4D4E;
+    --color-border: #C8C7C7;
+    --color-bg-yt-red: #F3C3C3;
+    --color-fav-bg: #0000003b;
+    --breakpoint-mobile: 480px;
+    --breakpoint-tablet: 550px;
+    --breakpoint-tablet-2: 700px;
+    --breakpoint-mini-desktop: 900px;
+}
