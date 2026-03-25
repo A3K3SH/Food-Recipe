@@ -19,7 +19,7 @@ A modern, feature-rich recipe discovery application built with React, featuring 
 - Context API
 
 ## Live Demo
-[https://food-recipe-app-ratnesh-chipres-projects.vercel.app/](https://fork-fire-zeta.vercel.app/)
+[https://fork-fire-zeta.vercel.app/](https://fork-fire-zeta.vercel.app/)
 
 ## Installation
 
@@ -58,5 +58,5 @@ A modern, feature-rich recipe discovery application built with React, featuring 
 ```
 
 ## Contact
-- X: [@ratneshchipre](https://x.com/ratneshchipre)
-- LinkedIn: [Ratnesh Chipre](https://www.linkedin.com/in/ratneshchipre/)
+- X: [@AakashSwain](https://x.com/swaincreate)
+- LinkedIn: [Aakash Swain](https://www.linkedin.com/in/aakashswain18/)
