@@ -12,6 +12,9 @@ A modern, feature-rich recipe discovery application built with React, featuring 
 - Smooth Animations
 - Modern Responsive Design
 
+<img width="1901" height="824" alt="{AA73BCBD-7D07-40FD-8221-44A7B6019AC3}" src="https://github.com/user-attachments/assets/ca8b9e67-e513-40fa-8661-cc7c4b964783" />
+
+
 ## Technologies Used
 - React 19
 - Vite
